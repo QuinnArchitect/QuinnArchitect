@@ -1,9 +1,5 @@
 # 🧩 Quinn — The Process Flow Architect  
 
-> “Every process has a story. My job is to help it flow.”
-
----
-
 ### 🌿 About Quinn
 I start by **listening and reading**.  
 Every team already has the details of how they work — in people’s heads, in notes, checklists, guides, and old documents.  
